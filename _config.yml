@@ -1,7 +1,7 @@
 name: omarei
 favicon: null
-layout_spectrum: 0.5305142891593277
-typography_spectrum: 0.09514970262534916
+layout_spectrum: 0.87754
+typography_spectrum: 0.35082
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.6146469220984727
-  lightness: 0.3301284317858517
-  saturation: 0.5254300311207771
-  rhythmicContrast: 0.11258441209793091
+    - '#d6d2ad'
+    - '#72445e'
+    - '#302826'
+    - '#f2f3ee'
+    - '#bf8253'
+  brandStrength: 0.5625
+  lightness: 0.375
+  saturation: 0.1875
+  rhythmicContrast: 0.75
 purpose: []
